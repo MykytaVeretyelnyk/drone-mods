@@ -1,8 +1,9 @@
 # Drone instance mods
 
 Snapshot of the CurseForge instance `Drone` mods folder (Minecraft 1.21.1, NeoForge 21.1.265), 2026-10-27.
-Private backup for personal use; third-party mods keep their own licenses.
+Backup for personal use; third-party mods keep their own licenses. dsm (DeepStrike port) is All Rights Reserved.
 
+- architectury-13.0.11-neoforge.jar
 - cloth-config-15.0.140-neoforge.jar
 - curios-neoforge-9.5.1+1.21.1.jar
 - dsm-0.9.0-neoforge-1.21.1.jar
@@ -11,6 +12,7 @@ Private backup for personal use; third-party mods keep their own licenses.
 - geckolib-neoforge-1.21.1-4.9.3.jar
 - iris-neoforge-1.8.14-beta.1+mc1.21.1.jar
 - kotlinforforge-5.12.0-all.jar
+- letsdo-vinery-neoforge-1.5.6.jar
 - MCSP-1.21.1-V1.0.10.jar
 - projectexplosive-0.7.2-beta.jar
 - refurbished_furniture-neoforge-1.21.1-1.0.22.jar
