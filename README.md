@@ -3,6 +3,8 @@
 Snapshot of the CurseForge instance `Drone` mods folder (Minecraft 1.21.1, NeoForge 21.1.265), 2026-11-01.
 Backup for personal use; third-party mods keep their own licenses. dsm (DeepStrike port) is All Rights Reserved.
 
+**MCSP-1.21.1-V1.0.10.jar is a MODIFIED build** (GPL-3.0): Tos1aEntity patched to run on Superb Warfare 0.8.9.2, see patches/mcsp in the deepstrike-neoforge-1.21.1 repo. Not yet confirmed in-game.
+
 - architectury-13.0.11-neoforge.jar
 - blockui-1.0.209-1.21.1.jar
 - cloth-config-15.0.140-neoforge.jar
