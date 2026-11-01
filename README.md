@@ -1,6 +1,6 @@
 # Drone instance mods
 
-Snapshot of the CurseForge instance `Drone` mods folder (Minecraft 1.21.1, NeoForge 21.1.265), 2026-11-01.
+Snapshot of the CurseForge instance `Drone` mods folder (Minecraft 1.21.1, NeoForge 21.1.265), 2026-11-02.
 Backup for personal use; third-party mods keep their own licenses. dsm (DeepStrike port) is All Rights Reserved.
 
 **MCSP-1.21.1-V1.0.10.jar is a MODIFIED build** (GPL-3.0): Tos1aEntity patched to run on Superb Warfare 0.8.9.2, see patches/mcsp in the deepstrike-neoforge-1.21.1 repo. Not yet confirmed in-game.
@@ -15,6 +15,8 @@ Backup for personal use; third-party mods keep their own licenses. dsm (DeepStri
 - dsm-0.9.0-neoforge-1.21.1.jar
 - explosionoverhaul-0.2.3.0-neoforge.jar
 - framework-neoforge-1.21.1-0.13.11.jar
+- ftb-library-neoforge-2101.1.39.jar
+- ftb-teams-neoforge-2101.1.11.jar
 - geckolib-neoforge-1.21.1-4.9.3.jar
 - iris-neoforge-1.8.14-beta.1+mc1.21.1.jar
 - kotlinforforge-5.12.0-all.jar
@@ -30,7 +32,8 @@ Backup for personal use; third-party mods keep their own licenses. dsm (DeepStri
 - sodium-neoforge-0.8.13+mc1.21.1.jar
 - structurize-1.0.832-1.21.1.jar
 - superbwarfare-0.8.9.2-mc1.21.1-c22d98c2.jar
-- TCBz Cigarette mod NeoForge 1.21.1 v1.5.0.jar
 - towntalk-1.2.0.jar
+- vapemod-1.21.1-1.1.0.jar
+- WarNTaxes-NeoForge-5.0.9.jar
 - xaerominimap-neoforge-1.21.1-26.6.0.jar
 - xaeroworldmap-neoforge-1.21.1-1.47.0.jar
