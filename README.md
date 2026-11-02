@@ -10,7 +10,7 @@ Backup for personal use; third-party mods keep their own licenses. dsm (DeepStri
 - cbcaeronauticsmissiles-0.2.0.jar
 - cloth-config-15.0.140-neoforge.jar
 - colonypathingedition-1.21.1-1.0.5-fix-6.jar
-- create_radar-5.0.3-1.21.1.jar
+- create_radar-0.4.9.4-1.21.1.jar
 - create-1.21.1-6.0.10.jar
 - create-aeronautics-bundled-1.21.1-1.3.2.jar
 - createbigcannons-5.11.7+mc.1.21.1.jar
