@@ -5,13 +5,15 @@ Backup for personal use; third-party mods keep their own licenses. dsm (DeepStri
 
 **MCSP-1.21.1-V1.0.10.jar is a MODIFIED build** (GPL-3.0): Tos1aEntity patched to run on Superb Warfare 0.8.9.2, see patches/mcsp in the deepstrike-neoforge-1.21.1 repo. Not yet confirmed in-game.
 
-**ashvehicle-1.21.1-4.6-8.9.jar is a MODIFIED build** (GPL-3.0, author Arusan): call sites adapted to Superb Warfare 0.8.9.2, see patches/ashvehicle in the deepstrike-neoforge-1.21.1 repo. The OBB mixin is skipped; control, reload and FPS problems are not diagnosed.
-
 - architectury-13.0.11-neoforge.jar
-- ashvehicle-1.21.1-4.6-8.9.jar
 - blockui-1.0.209-1.21.1.jar
+- cbcaeronauticsmissiles-0.2.0.jar
 - cloth-config-15.0.140-neoforge.jar
 - colonypathingedition-1.21.1-1.0.5-fix-6.jar
+- create_radar-5.0.3-1.21.1.jar
+- create-1.21.1-6.0.10.jar
+- create-aeronautics-bundled-1.21.1-1.3.2.jar
+- createbigcannons-5.11.7+mc.1.21.1.jar
 - curios-neoforge-9.5.1+1.21.1.jar
 - domum-ornamentum-1.0.231-main.jar
 - drinkbeer-refill-1.21.1-neoforge-1.4.2+neoforge.jar
@@ -27,11 +29,16 @@ Backup for personal use; third-party mods keep their own licenses. dsm (DeepStri
 - mapcolonies-1.0.0.jar
 - MCSP-1.21.1-V1.0.10.jar
 - minecolonies-1.1.1403-1.21.1.jar
+- morepropulsion-1.4.0.jar
 - multipiston-1.2.58-1.21.1.jar
 - projectexplosive-0.7.2-beta.jar
+- realistic_aerodynamics-0.1.3.jar
 - refurbished_furniture-neoforge-1.21.1-1.0.22.jar
+- ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar
+- sable-neoforge-1.21.1-2.0.6.jar
 - SBW-Advanced-CIWS-NeoForge-1.21.1-SBW-0.8.9-final-v1.0.8-VISUALFIX2.jar
 - SBW-Drone-Warfare-1.21.1-NeoForge-1.0.6.jar
+- shield_generators-1.4.0.jar
 - sodium-neoforge-0.8.13+mc1.21.1.jar
 - structurize-1.0.832-1.21.1.jar
 - superbwarfare-0.8.9.2-mc1.21.1-c22d98c2.jar
