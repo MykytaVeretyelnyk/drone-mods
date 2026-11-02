@@ -5,7 +5,10 @@ Backup for personal use; third-party mods keep their own licenses. dsm (DeepStri
 
 **MCSP-1.21.1-V1.0.10.jar is a MODIFIED build** (GPL-3.0): Tos1aEntity patched to run on Superb Warfare 0.8.9.2, see patches/mcsp in the deepstrike-neoforge-1.21.1 repo. Not yet confirmed in-game.
 
+**ashvehicle-1.21.1-4.6-8.9.jar is a MODIFIED build** (GPL-3.0, author Arusan): call sites adapted to Superb Warfare 0.8.9.2, see patches/ashvehicle in the deepstrike-neoforge-1.21.1 repo. The OBB mixin is skipped; control, reload and FPS problems are not diagnosed.
+
 - architectury-13.0.11-neoforge.jar
+- ashvehicle-1.21.1-4.6-8.9.jar
 - blockui-1.0.209-1.21.1.jar
 - cloth-config-15.0.140-neoforge.jar
 - colonypathingedition-1.21.1-1.0.5-fix-6.jar
