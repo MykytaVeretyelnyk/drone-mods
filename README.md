@@ -1,7 +1,7 @@
 # Drone instance mods
 
-Snapshot of the CurseForge instance `Drone` mods folder (Minecraft 1.21.1, NeoForge 21.1.265), 2026-11-02.
-Backup for personal use; third-party mods keep their own licenses. dsm (DeepStrike port) is All Rights Reserved.
+Snapshot of the CurseForge instance `Drone` mods folder (Minecraft 1.21.1, NeoForge 21.1.265), 2026-11-05.
+Backup for personal use; third-party mods keep their own licenses. dsm (DeepStrike port) is All Rights Reserved. warmode (All Rights Reserved) and colonyjournal (GPL-3.0-or-later, a MineColonies addon) are own mods.
 
 **MCSP-1.21.1-V1.0.10.jar is a MODIFIED build** (GPL-3.0): Tos1aEntity patched to run on Superb Warfare 0.8.9.2, see patches/mcsp in the deepstrike-neoforge-1.21.1 repo. Not yet confirmed in-game.
 
@@ -9,10 +9,11 @@ Backup for personal use; third-party mods keep their own licenses. dsm (DeepStri
 - blockui-1.0.209-1.21.1.jar
 - cbcaeronauticsmissiles-0.2.0.jar
 - cloth-config-15.0.140-neoforge.jar
+- colonyjournal-0.5.0.jar
 - colonypathingedition-1.21.1-1.0.5-fix-6.jar
-- create_radar-0.4.9.4-1.21.1.jar
 - create-1.21.1-6.0.10.jar
 - create-aeronautics-bundled-1.21.1-1.3.2.jar
+- create_radar-0.4.9.4-1.21.1.jar
 - createbigcannons-5.11.7+mc.1.21.1.jar
 - curios-neoforge-9.5.1+1.21.1.jar
 - domum-ornamentum-1.0.231-main.jar
@@ -32,6 +33,7 @@ Backup for personal use; third-party mods keep their own licenses. dsm (DeepStri
 - morepropulsion-1.4.0.jar
 - multipiston-1.2.58-1.21.1.jar
 - projectexplosive-0.7.2-beta.jar
+- Quick-Skin-NeoForge-1.21.1-4.0.0.jar
 - realistic_aerodynamics-0.1.3.jar
 - refurbished_furniture-neoforge-1.21.1-1.0.22.jar
 - ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar
@@ -40,10 +42,13 @@ Backup for personal use; third-party mods keep their own licenses. dsm (DeepStri
 - SBW-Drone-Warfare-1.21.1-NeoForge-1.0.6.jar
 - shield_generators-1.4.0.jar
 - sodium-neoforge-0.8.13+mc1.21.1.jar
+- sophisticatedbackpacks-1.21.1-3.26.20.2244.jar
+- sophisticatedcore-1.21.1-1.5.28.2458.jar
 - structurize-1.0.832-1.21.1.jar
 - superbwarfare-0.8.9.2-mc1.21.1-c22d98c2.jar
 - towntalk-1.2.0.jar
 - vapemod-1.21.1-1.1.0.jar
-- WarNTaxes-NeoForge-5.0.9.jar
+- warmode-0.1.0.jar
+- worldedit-mod-7.3.8.jar
 - xaerominimap-neoforge-1.21.1-26.6.0.jar
 - xaeroworldmap-neoforge-1.21.1-1.47.0.jar
