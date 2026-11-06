@@ -8,6 +8,7 @@ Backup for personal use; third-party mods keep their own licenses. dsm (DeepStri
 - architectury-13.0.11-neoforge.jar
 - blockui-1.0.209-1.21.1.jar
 - cbcaeronauticsmissiles-0.2.0.jar
+- Chunky-NeoForge-1.4.23.jar
 - cloth-config-15.0.140-neoforge.jar
 - colonyjournal-0.5.0.jar
 - colonypathingedition-1.21.1-1.0.5-fix-6.jar
@@ -19,6 +20,7 @@ Backup for personal use; third-party mods keep their own licenses. dsm (DeepStri
 - domum-ornamentum-1.0.231-main.jar
 - drinkbeer-refill-1.21.1-neoforge-1.4.2+neoforge.jar
 - dsm-0.9.0-neoforge-1.21.1.jar
+- entityculling-neoforge-1.11.3-mc1.21.1.jar
 - explosionoverhaul-0.2.3.0-neoforge.jar
 - framework-neoforge-1.21.1-0.13.11.jar
 - ftb-library-neoforge-2101.1.39.jar
@@ -30,6 +32,7 @@ Backup for personal use; third-party mods keep their own licenses. dsm (DeepStri
 - mapcolonies-1.0.0.jar
 - MCSP-1.21.1-V1.0.10.jar
 - minecolonies-1.1.1403-1.21.1.jar
+- modernfix-neoforge-5.27.27+mc1.21.1.jar
 - morepropulsion-1.4.0.jar
 - multipiston-1.2.58-1.21.1.jar
 - projectexplosive-0.7.2-beta.jar
