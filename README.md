@@ -1,7 +1,7 @@
 # Drone instance mods
 
-Snapshot of the CurseForge instance `Drone` mods folder (Minecraft 1.21.1, NeoForge 21.1.265), 2026-11-05.
-Backup for personal use; third-party mods keep their own licenses. dsm (DeepStrike port) is All Rights Reserved. warmode (All Rights Reserved) and colonyjournal (GPL-3.0-or-later, a MineColonies addon) are own mods.
+Snapshot of the CurseForge instance `Drone` mods folder (Minecraft 1.21.1, NeoForge 21.1.265), 2026-11-06.
+Backup for personal use; third-party mods keep their own licenses. dsm (DeepStrike port) is All Rights Reserved and, since this snapshot, contains Skyfront 1.5.0 (GPL-3.0, by Lexik and Krutnet) as a nested jar (META-INF/jarjar); there is no separate Skyfront jar any more. warmode (All Rights Reserved) and colonyjournal (GPL-3.0-or-later, a MineColonies addon) are own mods.
 
 **MCSP-1.21.1-V1.0.10.jar is a MODIFIED build** (GPL-3.0): Tos1aEntity patched to run on Superb Warfare 0.8.9.2, see patches/mcsp in the deepstrike-neoforge-1.21.1 repo. Not yet confirmed in-game.
 
@@ -40,6 +40,7 @@ Backup for personal use; third-party mods keep their own licenses. dsm (DeepStri
 - sable-neoforge-1.21.1-2.0.6.jar
 - SBW-Advanced-CIWS-NeoForge-1.21.1-SBW-0.8.9-final-v1.0.8-VISUALFIX2.jar
 - SBW-Drone-Warfare-1.21.1-NeoForge-1.0.6.jar
+- sbw-optimized-neoforge-1.21.1-1.0.0.jar
 - shield_generators-1.4.0.jar
 - sodium-neoforge-0.8.13+mc1.21.1.jar
 - sophisticatedbackpacks-1.21.1-3.26.20.2244.jar
@@ -47,8 +48,10 @@ Backup for personal use; third-party mods keep their own licenses. dsm (DeepStri
 - structurize-1.0.832-1.21.1.jar
 - superbwarfare-0.8.9.2-mc1.21.1-c22d98c2.jar
 - towntalk-1.2.0.jar
+- ultimaratio-0.8.0-1.21.1-beta.jar
 - vapemod-1.21.1-1.1.0.jar
 - warmode-0.1.0.jar
 - worldedit-mod-7.3.8.jar
 - xaerominimap-neoforge-1.21.1-26.6.0.jar
 - xaeroworldmap-neoforge-1.21.1-1.47.0.jar
+
