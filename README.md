@@ -22,6 +22,7 @@ Backup for personal use; third-party mods keep their own licenses. dsm (DeepStri
 - dsm-0.9.0-neoforge-1.21.1.jar
 - entityculling-neoforge-1.11.3-mc1.21.1.jar
 - explosionoverhaul-0.2.3.0-neoforge.jar
+- ferritecore-7.0.3-neoforge.jar
 - framework-neoforge-1.21.1-0.13.11.jar
 - ftb-library-neoforge-2101.1.39.jar
 - ftb-teams-neoforge-2101.1.11.jar
